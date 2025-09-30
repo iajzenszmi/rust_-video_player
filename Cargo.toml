@@ -1,0 +1,12 @@
+[package]
+name = "rust_video_player"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+anyhow = "1"
+glib = "0.19"
+gtk4 = "0.8"
+gstreamer = "0.22"
+gstreamer-video = "0.22"
+
